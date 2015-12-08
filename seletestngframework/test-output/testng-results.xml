@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11" started-at="2015-12-08T06:46:41Z" finished-at="2015-12-08T06:46:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11" started-at="2015-12-08T06:46:41Z" finished-at="2015-12-08T06:46:41Z">
+      <class name="com.selenium.testng.dataProviderExample">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.selenium.testng.dataProviderExample@525f1e4e]" name="setUp" is-config="true" duration-ms="17123" started-at="2015-12-08T01:46:23Z" finished-at="2015-12-08T01:46:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.selenium.testng.dataProviderExample@525f1e4e]" name="tearDown" is-config="true" duration-ms="432" started-at="2015-12-08T01:46:41Z" finished-at="2015-12-08T01:46:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.selenium.testng.dataProviderExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
